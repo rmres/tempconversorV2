@@ -1,0 +1,10 @@
+D:\C#\Visual Studio 2019\ConvTempV2\bin\Debug\ConvTempV2.exe.config
+D:\C#\Visual Studio 2019\ConvTempV2\bin\Debug\ConvTempV2.exe
+D:\C#\Visual Studio 2019\ConvTempV2\bin\Debug\ConvTempV2.pdb
+D:\C#\Visual Studio 2019\ConvTempV2\obj\Debug\ConvTempV2.csprojAssemblyReference.cache
+D:\C#\Visual Studio 2019\ConvTempV2\obj\Debug\ConvTempV2.Properties.Resources.resources
+D:\C#\Visual Studio 2019\ConvTempV2\obj\Debug\ConvTempV2.csproj.GenerateResource.cache
+D:\C#\Visual Studio 2019\ConvTempV2\obj\Debug\ConvTempV2.csproj.CoreCompileInputs.cache
+D:\C#\Visual Studio 2019\ConvTempV2\obj\Debug\ConvTempV2.exe
+D:\C#\Visual Studio 2019\ConvTempV2\obj\Debug\ConvTempV2.pdb
+D:\C#\Visual Studio 2019\ConvTempV2\obj\Debug\ConvTempV2.F_TemperatureConversor.resources
